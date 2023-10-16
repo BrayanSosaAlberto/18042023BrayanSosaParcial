@@ -1,0 +1,5 @@
+C:\Users\Sosa\source\repos\Parcial 2\BrayanSosa\SegundoParcial\18042023BrayanSosa\18042023BrayanSosaParcial\AsincronaSemana11\obj\Debug\net6.0\AsincronaSemana11.csproj.AssemblyReference.cache
+C:\Users\Sosa\source\repos\Parcial 2\BrayanSosa\SegundoParcial\18042023BrayanSosa\18042023BrayanSosaParcial\AsincronaSemana11\obj\Debug\net6.0\AsincronaSemana11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sosa\source\repos\Parcial 2\BrayanSosa\SegundoParcial\18042023BrayanSosa\18042023BrayanSosaParcial\AsincronaSemana11\obj\Debug\net6.0\AsincronaSemana11.AssemblyInfoInputs.cache
+C:\Users\Sosa\source\repos\Parcial 2\BrayanSosa\SegundoParcial\18042023BrayanSosa\18042023BrayanSosaParcial\AsincronaSemana11\obj\Debug\net6.0\AsincronaSemana11.AssemblyInfo.cs
+C:\Users\Sosa\source\repos\Parcial 2\BrayanSosa\SegundoParcial\18042023BrayanSosa\18042023BrayanSosaParcial\AsincronaSemana11\obj\Debug\net6.0\AsincronaSemana11.csproj.CoreCompileInputs.cache
